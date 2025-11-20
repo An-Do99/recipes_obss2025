@@ -1,3 +1,3 @@
-# Guacamole
-## Ingredient
-## Instruction
+#  Guacamole
+## Ingredients
+## Instructions
